@@ -1,0 +1,26 @@
+/* @media screen and (max-width:1290) {
+    .about .about-img {
+        width: 1220px;
+        height: 700;
+        clear: both;
+        
+    }
+    .about .about-data{
+        max-width: 1220px;
+        max-height: 700px;
+        clear: both;
+    }
+ /* .about .about-img{
+        float: left;
+    } 
+    .about-data{
+       clear: both;
+    }   */
+     /* .container-about{
+        display: flex;
+        clear: both;
+    } */
+    .service .content{
+        width: 100%;
+    }
+} */
